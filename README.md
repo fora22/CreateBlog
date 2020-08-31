@@ -5,6 +5,30 @@ Server Backend Practice
 
 # Django vs Node.js
 
+### 간단히 보는 둘의 차이점
+
+- 무엇을 빌드하느냐에 따라 다르다.
+
+- 우선 CRUD(Create Read Update Delete)를 알아야 한다.
+
+- 예를 들면, 인스타그램은 CRUD이다. 
+
+- 장고는 CRUD를 위한 최선의 옵션이다. 블로그, 인스타그램, 유튜브같은 것에 최적이다. 이와 같은 경우에는 파이썬 + 장고 조합을 선택할 것이다. 필요한 것을 다 갖추었다. 유저, 인증, 뷰, 템플릿 등등 최적화 되어 있다.
+
+- 그러나 그런 경우가 아닌, 우버와 같이 CRUD외에 리얼타임이 필요하다거나 API를 사용해야하는데 그게 자바스크립트 베이스라던가 그런경우에는 nodeJS를 사용하면 좋다.
+
+- 넷플릭스는 nodejs를 자주 사용한다. CURD이외에도 리얼타임을 자주 하기 때문이다.
+
+- 결론을 말하면, CRUD를 활용한다? 파이썬 + 장고 조합을 사용하는 것이 좋다.(루비는 이제 아무도 안쓴다.)
+
+- 리얼타임, API등등을 활용한다? NodeJS를 사용하는 것이 좋다. 특히 커스터마이징이 많이 팔요할 때 좋다.
+
+- 장고는 거대한 상자와 같아서, 그 안을 뒤지면서 필요없는 건 버리고, 필요한 것만 남겨놓고 작업을 해야한다.
+
+- nodeJS는 그와 정반대로 안에 아무것도 없고, 레고 처럼 조합을 만들어야 한다.
+
+  -------
+
 백엔드, 서버를 빌드해야 하는 경우, 대표적인 웹 프레임워크(Web Framework)로서 Node.js, Django, Laravel, Spring 등이 있다.
 
 ![Image for post](https://miro.medium.com/max/60/1*01I2trhGiiqkawu0_A5fPA.png?q=20)
@@ -81,3 +105,5 @@ Photo by [Alexandre Debiève](https://unsplash.com/@alexkixa?utm_source=medium&u
 ## 출처
 
 [Node.js와 Django 중에서 무엇을 사용해야할까?](https://medium.com/@hshine1226/node-js%EC%99%80-django-%EC%A4%91%EC%97%90%EC%84%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-ea8ae375aaaa)
+
+[Django vs Node.js](https://sw-ko.tistory.com/76)
