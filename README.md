@@ -3,6 +3,20 @@ Server Backend Practice
 
 
 
+가상환경 정보가 저장된 파일을 생성
+
+```
+conda env export -n [환경이름] > [파일이름].yml		
+```
+
+export된 파일로부터 동일한 가상환경 생성
+
+```
+conda env create -f [파일이름].yml
+```
+
+
+
 # Django vs Node.js
 
 ### 간단히 보는 둘의 차이점
