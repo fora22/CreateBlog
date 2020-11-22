@@ -9,7 +9,10 @@ It will be Update.
 ### Build and Run
 It will be Update.
 ### Manual
-It will be Update.
+- 모든 개발 작업은 *Develope* 폴더에서 작업한다.
+ - 각자 작업은 닉네임 폴더 만들어서 할 것(ex: *fora22*)
+ - `.gigignore` 파일 넣어서 커밋 용량 관리할 것
+ - 가능하다면 설명이 필요한 폴더에 README 파일을 만들어 정리해놓을 것
 
 ## License
 MIT License
