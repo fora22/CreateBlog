@@ -10,9 +10,13 @@ It will be Update.
 It will be Update.
 ### Manual
 - 모든 개발 작업은 *Develope* 폴더에서 작업한다.
- - 각자 작업은 닉네임 폴더 만들어서 할 것(ex: *fora22*)
- - `.gigignore` 파일 넣어서 커밋 용량 관리할 것
- - 가능하다면 설명이 필요한 폴더에 README 파일을 만들어 정리해놓을 것
+  - 각자 작업은 닉네임 폴더 만들어서 할 것(ex: *fora22*)
+  - `.gigignore` 파일 넣어서 커밋 용량 관리할 것
+  - 가능하다면 설명이 필요한 폴더에 README 파일을 만들어 정리해놓을 것
+- branch는 작성 양식이 있다.
+  - `[닉네임]/Develope` 이 본인의 기본 branch
+  - 가능한 특별한 기능 혹은 업데이트 시 `[닉네임]/Feature/[해당 기능 설명]` branch를 만들어 작업하고
+  - 알았으면 하거나 질문 있는 경우 Pull Request를 남길 것
 
 ## License
 MIT License
