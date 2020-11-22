@@ -2,6 +2,19 @@
 
 ## Overview
 개인이 사용하는 Blog를 만들어 봄과 동시에 여러 웹의 생태계를 알아보자!
+### [FoRA](https://github.com/fora22)
+#### 만들고 싶은 Blog
+1. 내 글(Markdown 형식)을 적을 수 있는 Blog
+2. 작품 사진을 올리는 친구 개인 Blog
+
+#### 구현 기능
+1. 내 Blog
+  - Markdown 글을 포멧에 맞게 변환(Jekyll 과 같은 정적 웹사이트도 괜찮다)
+  - 하지만 [반응형 웹](https://vuejsexamples.com/minimal-blog-concept-with-vue-js-2/)도 원한다.
+  - Comment System -> 꼭 게시물마다 있는 Comment 보단 채팅방 형태도 괜찮다(우선순위는 낮음).
+2. 친구 Blog
+  - 개인 작품(사진) 등을 올려놓는 Blog
+  - 다른 사람의 접속 권한을 자유 자재로 조절할 수 있는 Blog
 
 ## Document
 ### Development Environment
