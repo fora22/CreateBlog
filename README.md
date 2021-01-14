@@ -62,10 +62,11 @@ Isuuses, Pull Request, 개인적 연락 다 좋습니다.
 - 만약 결론이 지어지지 않거나 Comment로 이야기를 나누기 어렵다는 생각이 들 경우 회의날짜에 회의를 진행한다.
 
 ## Issue & PR Rule
+### Issue
 - Assignees Or Reviewers 는 Issue를 확인하면 이모티콘을 남긴다.
   - 여기서 확인은 'Issue 가 올라왔구나'가 아닌 'Issue를 읽고 내용에 대해 인지를 했을 때'를 뜻한다.
   - 당장 확인 하기 힘들다면 나중에 확인 후 이모티콘을 남기도록 한다.
 - '주의 깊게', '가능한 한 빠르게' 확인해줬으면 하는 내용이 있다면 제목에 [중요]를 추가하고 Important Labeling을 한다.
-## Pull Request
+### Pull Request
 - PR이 올라가고 2일(48시간)안에는 Review를 해준다.
 - '주의 깊게', '가능한 한 빠르게' 확인해줬으면 하는 내용이 있다면 제목에 [중요]를 추가하고 Important Labeling을 한다.
