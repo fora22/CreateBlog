@@ -1,0 +1,9 @@
+.postItem {
+    color:deepskyblue;
+    text-decoration: overline;
+    font-size: large;
+    width: 300px;
+    height: 100px;
+    border: black;
+    border-style: solid;
+}

@@ -1,0 +1,30 @@
+{
+  "name": "vanillajs",
+  "version": "1.0.0",
+  "description": "Sample",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fora22/CreateBlog.git"
+  },
+  "keywords": [
+    "Sample",
+    "FistBlog"
+  ],
+  "author": "fora22",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fora22/CreateBlog/issues"
+  },
+  "homepage": "https://github.com/fora22/CreateBlog#readme",
+  "dependencies": {
+    "gulp-markdown-it": "^0.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
