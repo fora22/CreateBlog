@@ -59,7 +59,7 @@ Isuuses, Pull Request, 개인적 연락 다 좋습니다.
   - #을 쓰면 알아서 Issue와 PR에 대한 링크를 고를 수 있다.
   - 만약 Issue를 올릴 정도로 복잡하지 않을 것 같다면 Review Meeting Issue에 comment를 남긴다.
 - 회의 당일 날 논의 내용이 없고 참여자 모두 동의하면 해당 날짜의 회의는 없어진다.
-- 만약 결론이 지어지지 않거나 Comment로 이야기를 나누기 어렵다는 생각이 들 경우 회의날짜에 회의를 진행한다.
+- 만약 결론이 지어지지 않거나 회의 전까지 Issue가 Comment로 결론나지 않을 시 회의날짜에 회의를 진행한다.
 
 ## Issue & PR Rule
 ### Issue
